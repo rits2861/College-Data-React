@@ -25,6 +25,7 @@ A simple React web application to explore college-related data. This project all
 git clone https://github.com/rits2861/College-Data-React.git
 
 #screenshot
+![UI Preview](https://github.com/user-attachments/assets/c98f09da-6e30-46d3-bcfc-eb1d1b12e26e)
 ![img]<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c98f09da-6e30-46d3-bfcf-eb1d1b12e26e" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e82c43bc-a8b4-4f8a-9712-68c87424fe0a" />
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/35f71568-acb2-48b4-8780-52af31d2e89d" />
